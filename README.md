@@ -11,3 +11,5 @@ It’s the role of the data analyst to collect, analyse, and translate data into
 Watch this short video where Norah Wulff, data architect and head of technology and operations at WeDoTech Limited, provides some more insight into how data analytics is different to data analysis.
 
 > https://youtu.be/GxpqewgyhQA
+
+>> https://www.getsmarter.com/blog/career-advice/difference-data-analytics-data-analysis/
